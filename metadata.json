@@ -1,0 +1,6 @@
+{
+  "name": "FinTrack",
+  "description": "A refined personal expense tracker for managing daily finances with detailed analysis and categorization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Charts", "LocalStorage Persistence"]
+}
